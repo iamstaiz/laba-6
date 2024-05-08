@@ -9,3 +9,4 @@ istream& operator>>(istream& is, User& user) {
 	is >> user.username;
 	return is;
 }
+User::~User(){}

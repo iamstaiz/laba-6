@@ -9,6 +9,7 @@ int main(){
 	while (exit ==0){
 		cout << "1.user";
 		cout << "2.admin";
+		cout << "test";
 
 	}
 }
